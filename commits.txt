@@ -1,0 +1,17 @@
+commit 14dd55e27cef7fc89ae2f7f4f62e3c4ef58c89c7
+Author: Andrea Soto <andrean.soto.m@gmail.com>
+Date:   Mon Jul 9 17:57:01 2018 -0400
+
+    borre error de escritura
+
+commit 62cafd9e0ffb5f0ce0e0acb3a23d816d33648ddc
+Author: Andrea Soto <andrean.soto.m@gmail.com>
+Date:   Mon Jul 9 17:45:10 2018 -0400
+
+    estilo titulo
+
+commit 5656fb96183a3b448676062b17646ac02616967e
+Author: Andrea Soto <andrean.soto.m@gmail.com>
+Date:   Mon Jul 9 17:34:46 2018 -0400
+
+    iniciamos
